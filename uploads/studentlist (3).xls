@@ -1,0 +1,24 @@
+
+   <table class="table" bordered="1">  
+                    <tr>  
+                         <td>Student ID</td>
+          <td>Last Name</td>
+          <td>First Name</td> 
+
+     
+                    </tr>
+  
+    <tr>  
+                         <td>123-111-222</td>  
+                         <td>pidlaoan</td>  
+                         <td>romel</td>  
+      
+                    </tr>
+   
+    <tr>  
+                         <td>03-1516-0123</td>  
+                         <td>lapore</td>  
+                         <td>josh</td>  
+      
+                    </tr>
+   </table>
